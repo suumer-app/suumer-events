@@ -1,5 +1,7 @@
 # Suumer events
 
+[![Suumer MCP connector](https://glama.ai/mcp/connectors/com.suumer/events/badges/score.svg)](https://glama.ai/mcp/connectors/com.suumer/events)
+
 Things to do near any US town on any day: trivia, live music, karaoke, open mics, markets and more. Each event is checked against the page it came from. Free, no key, no sign-in.
 
 - Website: https://suumer.com (Suumer, with two U's)
